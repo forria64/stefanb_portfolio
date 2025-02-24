@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "components/*": ["src/stefanb_portfolio_frontend/components/*"],
+      "utils/*": ["src/stefanb_portfolio_frontend/utils/*"]
+    }
+  }
+}
+

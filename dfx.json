@@ -1,0 +1,20 @@
+{
+  "canisters": {
+    "stefanb_portfolio_frontend": {
+      "source": [
+        "src/stefanb_portfolio_frontend/out"
+      ],
+      "type": "assets",
+      "workspace": "stefanb_portfolio_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
+
