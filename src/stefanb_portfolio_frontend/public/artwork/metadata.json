@@ -486,13 +486,13 @@
       "eluans": {
         "description": "A phygital collection of 250 character designs, combining traditional and AI art ",
         "url": "https://xoxno.com/collection/ELUAN-03e78e",
-        "logo": "/logos/eluans.png",
+        "logo": "/logos/eluans.webp",
         "name": "Eluans"
       },
       "guides": {
         "description": "A collection of 240 phygital artworks, describing humans' dual nature, colored by our thoughts ",
         "url": "https://xoxno.com/collection/UNIOGUIDES-271ff8",
-        "logo": "/logos/guides.png",
+        "logo": "/logos/guides.webp",
         "name": "Guides"
       }
     },
@@ -500,19 +500,19 @@
       "phyxls": {
         "description": "A phygital art collection of 2024 Bitcoin ordinals, digitally generated from one physical canvas ",
         "url": "https://phyxls.com/",
-        "logo": "/logos/phyxls.png",
+        "logo": "/logos/phyxls.webp",
         "name": "Phyxls"
       },
       "icpp": {
         "description": "A phygital collection of 2024 Bitcoin ordinals that supports art & C++ on the Internet Computer ",
         "url": "https://icpp-art.com/",
-        "logo": "/logos/icpp.png",
+        "logo": "/logos/icpp.webp",
         "name": "icpp-art"
       },
       "bob": {
         "description": "A reinterpretation of BOB’s original logo, used for BOB’s launchpad ",
         "url": "https://x.com/bobdotfun/status/1881409442639728690",
-        "logo": "/logos/bob.png",
+        "logo": "/logos/bob.webp",
         "name": "BOB"
       }
     }
