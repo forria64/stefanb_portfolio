@@ -68,7 +68,7 @@ export default function RootLayout({ children }) {
         {/* Main content: height calculated to fill viewport between header and footer */}
         <main
           className="flex items-center justify-center overflow-hidden"
-          style={{ height: 'calc(100vh - 130px)' }}
+          style={{ height: 'calc(100vh - 0px)' }}
         >
           {children}
         </main>
