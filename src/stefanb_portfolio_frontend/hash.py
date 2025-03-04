@@ -1,3 +1,4 @@
+# /tools/hash_above_public.py
 #!/usr/bin/env python3
 import json
 import os
@@ -15,22 +16,33 @@ def compute_sha256(file_path: str) -> str:
 
 def main():
     """
-    This script checks each graphic entry in og_metadata.json:
+    This script is designed to be run from one directory ABOVE the directory named 'public'.
+    Inside that 'public' directory, there should be:
+      - og_metadata.json
+      - the assets referenced by og_metadata.json
+
+    The script performs the following checks for each graphic entry in og_metadata.json:
       1) If 'asset_hash' is missing, it is added.
       2) If 'asset_hash' is present but does not match the actual file's hash,
          the value is replaced with the correct file hash.
       3) If the file corresponding to 'asset' is missing, no changes are made for that entry.
 
     Usage:
-        1) Place this script in the same directory as og_metadata.json.
-        2) Ensure all files referenced by 'graphics[].asset' exist in the local filesystem.
-        3) Run:  ./hash.py
-        4) og_metadata.json is updated in-place.
+        1) Place this script one directory above the 'public' folder.
+        2) Ensure 'og_metadata.json' is located in the './public' directory.
+        3) Ensure all files referenced by 'graphics[].asset' exist under './public'.
+        4) Run:  ./hash_above_public.py  (or 'python3 hash_above_public.py')
+        5) og_metadata.json will be updated in-place.
     """
-    og_metadata_path = os.path.join(os.getcwd(), "og_metadata.json")
+
+    # Construct the path to 'public'
+    public_dir = os.path.join(os.getcwd(), "public")
+
+    # Construct the path to og_metadata.json inside 'public'
+    og_metadata_path = os.path.join(public_dir, "og_metadata.json")
 
     if not os.path.isfile(og_metadata_path):
-        print("Error: No og_metadata.json found in the current directory.")
+        print(f"Error: No og_metadata.json found at {og_metadata_path}.")
         return
 
     # Load existing metadata
@@ -53,8 +65,9 @@ def main():
             print(f"Warning: Entry {idx} has no 'asset' field; skipping.")
             continue
 
-        # Resolve local file path (remove any leading slash)
-        local_file_path = asset_path.lstrip("/")
+        # Resolve local file path relative to the 'public' directory
+        # Remove any leading slash from asset, then prepend 'public'
+        local_file_path = os.path.join(public_dir, asset_path.lstrip("/"))
         if not os.path.isfile(local_file_path):
             print(f"Warning: File '{local_file_path}' not found; skipping hash check.")
             continue
