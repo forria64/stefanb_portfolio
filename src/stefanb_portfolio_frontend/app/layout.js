@@ -37,7 +37,7 @@ export const metadata = {
     siteName: 'stefanb.art',
     images: [
       {
-        url: 'https://stefanb.vercel.app/banner.png',
+        url: 'https://stefanb.art/banner.png',
         width: 1200,
         height: 630,
         alt: 'stefanb.art Preview',
@@ -51,7 +51,7 @@ export const metadata = {
     title: 'stefanb.art',
     description:
       'Self-taught artist focused on concept/visual design, now bringing my work on-chain through Internet Computer Protocol and Bitcoin.',
-    images: ['https://stefanb.vercel.app/banner.png'],
+    images: ['https://stefanb.art/banner.png'],
     creator: '@stefanbdotart',
   },
   icons: {
