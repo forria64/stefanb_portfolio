@@ -7,706 +7,590 @@
   },
   "graphics": [
     {
-      "title": "20211",
-      "description": "Attention .mixed media on canvas .20cm .118 MB .9331x9344 pixels",
-      "asset": "/artwork/paintings/2021/20211.webp",
-      "asset_hash": "d103bdf233d32e364fd3d33785205760ef70e72512160db9e2c7a23a7370d13e"
+      "title": "Attention",
+      "description": ".mixed media on canvas .20cm .118 MB .9331x9344 pixels",
+      "asset": "/artwork/paintings/2021/20211.webp"
     },
     {
-      "title": "20212",
-      "description": "Atypical Night in Costinesti .mixed media on canvas .20x40 cm .233 MB .13943x6674 pixels",
-      "asset": "/artwork/paintings/2021/20212.webp",
-      "asset_hash": "2812273e89a929f91149e59639de93b2ebd0896295e55c7d1f22388f201dafda"
+      "title": "Atypical Night in Costinesti",
+      "description": ".mixed media on canvas .20x40 cm .233 MB .13943x6674 pixels",
+      "asset": "/artwork/paintings/2021/20212.webp"
     },
     {
-      "title": "20213",
-      "description": "Avalus B .mixed media on canvas .40cm .125 MB .9360x9381 pixels",
-      "asset": "/artwork/paintings/2021/20213.webp",
-      "asset_hash": "3cbf0f72a1b93bf6428c2611b562b5e30f6cd687893e927a4ee7f7265b1a6968"
+      "title": "Avalus B",
+      "description": ".mixed media on canvas .40cm .125 MB .9360x9381 pixels",
+      "asset": "/artwork/paintings/2021/20213.webp"
     },
     {
-      "title": "20214",
-      "description": "Between Mother and God .mixed media on canvas .40cm .151 MB .10069x9868 pixels",
-      "asset": "/artwork/paintings/2021/20214.webp",
-      "asset_hash": "35d8fd70d0f811c9e8fa5da54dd50899bf25b0608ee01f524f5cc39fd011991a"
+      "title": "Between Mother and God",
+      "description": ".mixed media on canvas .40cm .151 MB .10069x9868 pixels",
+      "asset": "/artwork/paintings/2021/20214.webp"
     },
     {
-      "title": "20215",
-      "description": "Bilomphia .mixed media on canvas .30x30 cm .101 MB .7239x7201 pixels",
-      "asset": "/artwork/paintings/2021/20215.webp",
-      "asset_hash": "006d36e23195d625131bfdfe964e836aa67628d755e56d46e45afd5f172f14a7"
+      "title": "Bilomphia",
+      "description": ".mixed media on canvas .30x30 cm .101 MB .7239x7201 pixels",
+      "asset": "/artwork/paintings/2021/20215.webp"
     },
     {
-      "title": "20216",
-      "description": "Creator of Inexistent Laws .mixed media on canvas .18x24 cm .50 MB .4441x5986 pixels",
-      "asset": "/artwork/paintings/2021/20216.webp",
-      "asset_hash": "5c07760f46f53dfeec5bb39c1f058b0eab8733adc00f9b52627a9e9070e13fd8"
+      "title": "Creator of Inexistent Laws",
+      "description": ".mixed media on canvas .18x24 cm .50 MB .4441x5986 pixels",
+      "asset": "/artwork/paintings/2021/20216.webp"
     },
     {
-      "title": "20217",
-      "description": "Decency .mixed media on canvas .35x50 cm .55 MB .5487x4372 pixels",
-      "asset": "/artwork/paintings/2021/20217.webp",
-      "asset_hash": "71512409a0794d36e8e712a2c270dff99d8475ff2f1618b5dd07787b348f628f"
+      "title": "Decency",
+      "description": ".mixed media on canvas .35x50 cm .55 MB .5487x4372 pixels",
+      "asset": "/artwork/paintings/2021/20217.webp"
     },
     {
-      "title": "20218",
-      "description": "Egoless Divinity .mixed media on canvas .30cm .68 MB .6202x6197 pixels",
-      "asset": "/artwork/paintings/2021/20218.webp",
-      "asset_hash": "6a90f2d112c85a942ec7aeecc691bf8ac2fda2373b89686b5a726439ff934c1c"
+      "title": "Egoless Divinity",
+      "description": ".mixed media on canvas .30cm .68 MB .6202x6197 pixels",
+      "asset": "/artwork/paintings/2021/20218.webp"
     },
     {
-      "title": "20219",
-      "description": "Emanation of the Demiurge .mixed media on canvas .30x50 cm .15 MB .1382x2000 pixels",
-      "asset": "/artwork/paintings/2021/20219.webp",
-      "asset_hash": "74516d215003d0cf1464109b77536716af072cc475ddb8ca7848c3d0fd850f4b"
+      "title": "Emanation of the Demiurge",
+      "description": ".mixed media on canvas .30x50 cm .15 MB .1382x2000 pixels",
+      "asset": "/artwork/paintings/2021/20219.webp"
     },
     {
-      "title": "202110",
-      "description": "Embodiment of Blue .mixed media on canvas .18x24 cm .16 MB .1525x2000 pixels",
-      "asset": "/artwork/paintings/2021/202110.webp",
-      "asset_hash": "c46a0871c313a17e23661b418821b6a49427ca9d4841f7b1fb8badb393d86db6"
+      "title": "Embodiment of Blue",
+      "description": ".mixed media on canvas .18x24 cm .16 MB .1525x2000 pixels",
+      "asset": "/artwork/paintings/2021/202110.webp"
     },
     {
-      "title": "202111",
-      "description": "Esi-C .mixed media on canvas .18x24 cm .50 MB .4244x5844 pixels",
-      "asset": "/artwork/paintings/2021/202111.webp",
-      "asset_hash": "601564ff11e03ace3ca7488ff2dda5a0f12fdf522a25d8e20df66695718163cc"
+      "title": "Esi-C",
+      "description": ".mixed media on canvas .18x24 cm .50 MB .4244x5844 pixels",
+      "asset": "/artwork/paintings/2021/202111.webp"
     },
     {
-      "title": "202112",
-      "description": "Evanoek .mixed media on canvas .35x50 cm .135 MB .8478x10542 pixels",
-      "asset": "/artwork/paintings/2021/202112.webp",
-      "asset_hash": "4b5fa9663d48811fff59d1383dfb970b8bd83b7905d599d11e53495980d8eaf4"
+      "title": "Evanoek",
+      "description": ".mixed media on canvas .35x50 cm .135 MB .8478x10542 pixels",
+      "asset": "/artwork/paintings/2021/202112.webp"
     },
     {
-      "title": "202113",
-      "description": "Exorania .mixed media on canvas .24x30 cm .182 MB .10974x7920 pixels",
-      "asset": "/artwork/paintings/2021/202113.webp",
-      "asset_hash": "ca08d9360ce41bb2a15b5f47ba06ab3a0488bada903004039d4697219cf8d611"
+      "title": "Exorania",
+      "description": ".mixed media on canvas .24x30 cm .182 MB .10974x7920 pixels",
+      "asset": "/artwork/paintings/2021/202113.webp"
     },
     {
-      "title": "202114",
-      "description": "Father with Disobedient Son .mixed media on canvas .40x50 cm .15 MB .4411x3306 pixels",
-      "asset": "/artwork/paintings/2021/202114.webp",
-      "asset_hash": "7e0e8fc0c2839fcda9655885f04baafe7601bbf31939126458ac95b71e9039e2"
+      "title": "Father with Disobedient Son",
+      "description": ".mixed media on canvas .40x50 cm .15 MB .4411x3306 pixels",
+      "asset": "/artwork/paintings/2021/202114.webp"
     },
     {
-      "title": "202115",
-      "description": "Golden Leo .mixed media on canvas .18x24 cm .15 MB .4411x3306 pixels",
-      "asset": "/artwork/paintings/2021/202115.webp",
-      "asset_hash": "452a4e7c793bc0028f419265cacc512af89f1dbd68942e1a300e37260c00d0f3"
+      "title": "Golden Leo",
+      "description": ".mixed media on canvas .18x24 cm .15 MB .4411x3306 pixels",
+      "asset": "/artwork/paintings/2021/202115.webp"
     },
     {
-      "title": "202116",
-      "description": "Golden Mask Djinn .mixed media on canvas .20x30 cm .7 MB .1686x2126 pixels",
-      "asset": "/artwork/paintings/2021/202116.webp",
-      "asset_hash": "cbb46105ee6d0ca088b8a88c91f5991d2bb16edf28d945ab33331740ee96cb29"
+      "title": "Golden Mask Djinn",
+      "description": ".mixed media on canvas .20x30 cm .7 MB .1686x2126 pixels",
+      "asset": "/artwork/paintings/2021/202116.webp"
     },
     {
-      "title": "202117",
-      "description": "Guardian Dragon against Dark Matter .mixed media on canvas .24x30 cm .81 MB .7157x5360 pixels",
-      "asset": "/artwork/paintings/2021/202117.webp",
-      "asset_hash": "689ec59c3c97c9cb6ef6b607ed86c7474d6dc2d5c6a160012568038deba1f977"
+      "title": "Guardian Dragon against Dark Matter",
+      "description": ".mixed media on canvas .24x30 cm .81 MB .7157x5360 pixels",
+      "asset": "/artwork/paintings/2021/202117.webp"
     },
     {
-      "title": "202118",
-      "description": "Inner Snow .mixed media on canvas .20cm .44 MB .5909x5908 pixels",
-      "asset": "/artwork/paintings/2021/202118.webp",
-      "asset_hash": "157b74fa0b4440c1efa327feecb7206960442246d6b940cb824667a0d8de7a2f"
+      "title": "Inner Snow",
+      "description": ".mixed media on canvas .20cm .44 MB .5909x5908 pixels",
+      "asset": "/artwork/paintings/2021/202118.webp"
     },
     {
-      "title": "202119",
-      "description": "Irovanura .mixed media on canvas .30cm .59 MB .6502x6472 pixels",
-      "asset": "/artwork/paintings/2021/202119.webp",
-      "asset_hash": "112159101157fa52835dd3b4cb5413f3f1af16244f3c087fa25d600a51ef1c40"
+      "title": "Irovanura",
+      "description": ".mixed media on canvas .30cm .59 MB .6502x6472 pixels",
+      "asset": "/artwork/paintings/2021/202119.webp"
     },
     {
-      "title": "202120",
-      "description": "Itiada .mixed media on canvas .18x24 cm .18 MB .3147x4176 pixels",
-      "asset": "/artwork/paintings/2021/202120.webp",
-      "asset_hash": "fe08088c295ed8c61386108ad0a72197c084bdf40e56ff1eef3642fafbc923a0"
+      "title": "Itiada",
+      "description": ".mixed media on canvas .18x24 cm .18 MB .3147x4176 pixels",
+      "asset": "/artwork/paintings/2021/202120.webp"
     },
     {
-      "title": "202121",
-      "description": "Lubemir .mixed media on canvas .24x30 cm .19 MB .3039x3859 pixels",
-      "asset": "/artwork/paintings/2021/202121.webp",
-      "asset_hash": "28202d840a6ede66ef1c3c61d93cc04a4439900a52d9dd500692bf0cb5a79652"
+      "title": "Lubemir",
+      "description": ".mixed media on canvas .24x30 cm .19 MB .3039x3859 pixels",
+      "asset": "/artwork/paintings/2021/202121.webp"
     },
     {
-      "title": "202122",
-      "description": "Makavoina .mixed media on canvas .30cm .34 MB .4618x4625 pixels",
-      "asset": "/artwork/paintings/2021/202122.webp",
-      "asset_hash": "8e019cd0a09b86b71b48145bbe09719189c9dda8bd2c510898e786fc9bae5b77"
+      "title": "Makavoina",
+      "description": ".mixed media on canvas .30cm .34 MB .4618x4625 pixels",
+      "asset": "/artwork/paintings/2021/202122.webp"
     },
     {
-      "title": "202123",
-      "description": "Medivina .mixed media on canvas .20x30 cm .13 MB .1979x2969 pixels",
-      "asset": "/artwork/paintings/2021/202123.webp",
-      "asset_hash": "76844e8161509498508deb674dcae8f8e1bf32265e097f4d79337932eebfac3c"
+      "title": "Medivina",
+      "description": ".mixed media on canvas .20x30 cm .13 MB .1979x2969 pixels",
+      "asset": "/artwork/paintings/2021/202123.webp"
     },
     {
-      "title": "202124",
-      "description": "Metaphysics of Green .mixed media on canvas .60x90 cm .133 MB .10462x7514 pixels",
-      "asset": "/artwork/paintings/2021/202124.webp",
-      "asset_hash": "02eeab258747e9202be5e9fc5f43f99e490147c591753f197247887130cba2c1"
+      "title": "Metaphysics of Green",
+      "description": ".mixed media on canvas .60x90 cm .133 MB .10462x7514 pixels",
+      "asset": "/artwork/paintings/2021/202124.webp"
     },
     {
-      "title": "202125",
-      "description": "Metaphysics of Smiling .mixed media on canvas .40x40 cm .165 MB .8898x8741 pixels",
-      "asset": "/artwork/paintings/2021/202125.webp",
-      "asset_hash": "3aacb6b2ee5c0fffe2d40e5e675cc79489e45312a7f56f9af59b6b9c4da92c7e"
+      "title": "Metaphysics of Smiling",
+      "description": ".mixed media on canvas .40x40 cm .165 MB .8898x8741 pixels",
+      "asset": "/artwork/paintings/2021/202125.webp"
     },
     {
-      "title": "202126",
-      "description": "Mirastia .mixed media on canvas .24x30 cm .101 MB .6414x7975 MB ",
-      "asset": "/artwork/paintings/2021/202126.webp",
-      "asset_hash": "cace18039a2bb8e3f4de0545605db63cd20577ded47fb9a4acfcee6c97688fe3"
+      "title": "Mirastia",
+      "description": ".mixed media on canvas .24x30 cm .101 MB .6414x7975 MB",
+      "asset": "/artwork/paintings/2021/202126.webp"
     },
     {
-      "title": "202127",
-      "description": "Mystic Fistic .mixed media on canvas .18x24 cm .29 MB .3370x4629 pixels",
-      "asset": "/artwork/paintings/2021/202127.webp",
-      "asset_hash": "bce6c5800df31e4a5167d65480aef182ed48dcc71d97581830f0f83946f3ad64"
+      "title": "Mystic Fistic",
+      "description": ".mixed media on canvas .18x24 cm .29 MB .3370x4629 pixels",
+      "asset": "/artwork/paintings/2021/202127.webp"
     },
     {
-      "title": "202128",
-      "description": "Nakymatris .mixed media on canvas .30x30 cm .108 MB .7870x7873 pixels",
-      "asset": "/artwork/paintings/2021/202128.webp",
-      "asset_hash": "da3fb64beb474afe384dae7e9291d90c062e8713b776372782787d30974cc85f"
+      "title": "Nakymatris",
+      "description": ".mixed media on canvas .30x30 cm .108 MB .7870x7873 pixels",
+      "asset": "/artwork/paintings/2021/202128.webp"
     },
     {
-      "title": "202129",
-      "description": "Olvasir .mixed media on canvas .18x24 cm .5 MB .2000x1501 pixels",
-      "asset": "/artwork/paintings/2021/202129.webp",
-      "asset_hash": "39b5f5e230acaf4e343e1b8f3362730556bd462d2af40c564919679b1f8b0b5e"
+      "title": "Olvasir",
+      "description": ".mixed media on canvas .18x24 cm .5 MB .2000x1501 pixels",
+      "asset": "/artwork/paintings/2021/202129.webp"
     },
     {
-      "title": "202130",
-      "description": "Omniadeios .mixed media on canvas .25x50 cm .13 MB .2000x1206 pixels",
-      "asset": "/artwork/paintings/2021/202130.webp",
-      "asset_hash": "1d7cd23bb6a97f4eaadc554227c78a4ed635337a9fd8c6db65d0de3656bcf15b"
+      "title": "Omniadeios",
+      "description": ".mixed media on canvas .25x50 cm .13 MB .2000x1206 pixels",
+      "asset": "/artwork/paintings/2021/202130.webp"
     },
     {
-      "title": "202131",
-      "description": "Onec Pau .mixed media on canvas .20x40 cm .178 MB .6858x13726 pixels",
-      "asset": "/artwork/paintings/2021/202131.webp",
-      "asset_hash": "dcf829e750d1ae9c5e2f19da5f934bd15fac94dd8443b2296d0678a6359ee433"
+      "title": "Onec Pau",
+      "description": ".mixed media on canvas .20x40 cm .178 MB .6858x13726 pixels",
+      "asset": "/artwork/paintings/2021/202131.webp"
     },
     {
-      "title": "202132",
-      "description": "Prismevina .mixed media on canvas .40x50 cm .16 MB .1609x2000 pixels",
-      "asset": "/artwork/paintings/2021/202132.webp",
-      "asset_hash": "82097c7bcfff3adc0135fe7a18596e43b8b4c8231fb3f491437f6f918603b5bb"
+      "title": "Prismevina",
+      "description": ".mixed media on canvas .40x50 cm .16 MB .1609x2000 pixels",
+      "asset": "/artwork/paintings/2021/202132.webp"
     },
     {
-      "title": "202133",
-      "description": "Royal Relique .mixed media on canvas .50x70 cm .16 MB .1499x2000 pixels",
-      "asset": "/artwork/paintings/2021/202133.webp",
-      "asset_hash": "2af8650fd9e26396127ce87c64204ef51261f96c98eae9206087cf79b3798be1"
+      "title": "Royal Relique",
+      "description": ".mixed media on canvas .50x70 cm .16 MB .1499x2000 pixels",
+      "asset": "/artwork/paintings/2021/202133.webp"
     },
     {
-      "title": "202134",
-      "description": "Symbol for Sanity .mixed media on canvas .20x20 cm .8 MB .1991x2000 pixels",
-      "asset": "/artwork/paintings/2021/202134.webp",
-      "asset_hash": "872fde82e0f8f256e3ab981c10b62a5f978884c9a0a813eb8234390933fda6c9"
+      "title": "Symbol for Sanity",
+      "description": ".mixed media on canvas .20x20 cm .8 MB .1991x2000 pixels",
+      "asset": "/artwork/paintings/2021/202134.webp"
     },
     {
-      "title": "202135",
-      "description": "The Beginning of the End of an Unknown Civilization .mixed media on canvas .50x50 cm .203 MB .9390x9406 pixels",
-      "asset": "/artwork/paintings/2021/202135.webp",
-      "asset_hash": "6e0e8f5ab9d36e73a378a37fab4919ce401a91e268e6b89c100cfee8b7cc8f97"
+      "title": "The Beginning of the End of an Unknown Civilization",
+      "description": ".mixed media on canvas .50x50 cm .203 MB .9390x9406 pixels",
+      "asset": "/artwork/paintings/2021/202135.webp"
     },
     {
-      "title": "202136",
-      "description": "The Holy Burden of Purity .mixed media on canvas .25x45 cm .64 MB .4715x7869 pixels",
-      "asset": "/artwork/paintings/2021/202136.webp",
-      "asset_hash": "75b8185f3128c429ef0ed8d70fbad47d12452c2f16a35a0e5af91d9c7c3200a4"
+      "title": "The Holy Burden of Purity",
+      "description": ".mixed media on canvas .25x45 cm .64 MB .4715x7869 pixels",
+      "asset": "/artwork/paintings/2021/202136.webp"
     },
     {
-      "title": "202137",
-      "description": "The Impossibility of Simplicity .mixed media on canvas .40x60 cm .48 MB .4430x5521 pixels",
-      "asset": "/artwork/paintings/2021/202137.webp",
-      "asset_hash": "2a033a0756fc0ab108cc9a21cb26fec207a347123770b20412c0e51195cb974e"
+      "title": "The Impossibility of Simplicity",
+      "description": ".mixed media on canvas .40x60 cm .48 MB .4430x5521 pixels",
+      "asset": "/artwork/paintings/2021/202137.webp"
     },
     {
-      "title": "202138",
-      "description": "Upside-down Citadel .mixed media on canvas .30x50 cm .48 MB .4430x5521 pixels",
-      "asset": "/artwork/paintings/2021/202138.webp",
-      "asset_hash": "b7c370cf348876fe0fc61147654ce3ad9af099171ddc041fa2607d1aa1e1ab8b"
+      "title": "Upside-down Citadel",
+      "description": ".mixed media on canvas .30x50 cm .48 MB .4430x5521 pixels",
+      "asset": "/artwork/paintings/2021/202138.webp"
     },
     {
-      "title": "202139",
-      "description": "Working with Light .mixed media on canvas .35x50 cm .124 MB .6899x9051 pixels",
-      "asset": "/artwork/paintings/2021/202139.webp",
-      "asset_hash": "4d63177940df3392e39d72fc50df2dd06b6c9204bc29d3cc93ce8dce3627209f"
+      "title": "Working with Light",
+      "description": ".mixed media on canvas .35x50 cm .124 MB .6899x9051 pixels",
+      "asset": "/artwork/paintings/2021/202139.webp"
     },
     {
-      "title": "20191",
-      "description": "Androgyny .mixed media on canvas .30x30 cm .11 MB .2726x2720 pixels.2019",
-      "asset": "/artwork/paintings/2019/20191.webp",
-      "asset_hash": "6a341e5fe385f220194ee3c579a18f0d8bea088d559894d7f3489c83ed232083"
+      "title": "Androgyny",
+      "description": ".mixed media on canvas .30x30 cm .11 MB .2726x2720 pixels.2019",
+      "asset": "/artwork/paintings/2019/20191.webp"
     },
     {
-      "title": "20201",
-      "description": "Animated Portrait #1 .mixed media on canvas .18x24 cm .17 MB .2657x3344 pixels",
-      "asset": "/artwork/paintings/2020/20201.webp",
-      "asset_hash": "c7ef568f2ac946a92095c768a611e1adf600db9fbc731706d0d5e8ffd8df98a5"
+      "title": "Animated Portrait #1",
+      "description": ".mixed media on canvas .18x24 cm .17 MB .2657x3344 pixels",
+      "asset": "/artwork/paintings/2020/20201.webp"
     },
     {
-      "title": "20202",
-      "description": "Animated Portrait #2 .mixed media on canvas .18x24 cm .6 MB .1740x2354 pixels",
-      "asset": "/artwork/paintings/2020/20202.webp",
-      "asset_hash": "07684afa88f797fd6289da69913a555c21c3c430a4e32faf1cbd20629f6c0b9b"
+      "title": "Animated Portrait #2",
+      "description": ".mixed media on canvas .18x24 cm .6 MB .1740x2354 pixels",
+      "asset": "/artwork/paintings/2020/20202.webp"
     },
     {
-      "title": "20203",
-      "description": "Animated Portrait #3 .mixed media on canvas .18x24 cm .8 MB .2660x1770 pixels",
-      "asset": "/artwork/paintings/2020/20203.webp",
-      "asset_hash": "7aa73a5782851659c352bcb9f622117eab9c4c9096ec263e0d2f4a6b30220eac"
+      "title": "Animated Portrait #3",
+      "description": ".mixed media on canvas .18x24 cm .8 MB .2660x1770 pixels",
+      "asset": "/artwork/paintings/2020/20203.webp"
     },
     {
-      "title": "20204",
-      "description": "Animated Portrait #4 .mixed media on canvas .18x24 cm .7 MB .2570x1901 pixels",
-      "asset": "/artwork/paintings/2020/20204.webp",
-      "asset_hash": "4a219ce71eba1b2a683e532a20c744e5833bc5e7ef9ff446b05551447d564092"
+      "title": "Animated Portrait #4",
+      "description": ".mixed media on canvas .18x24 cm .7 MB .2570x1901 pixels",
+      "asset": "/artwork/paintings/2020/20204.webp"
     },
     {
-      "title": "20205",
-      "description": "Animated Portrait #5 .mixed media on canvas .18x24 cm .15 MB .2711x3640 pixels",
-      "asset": "/artwork/paintings/2020/20205.webp",
-      "asset_hash": "98b3787fdeecae4ab1d17bd64da99d8a4be582484cd6ba5966257d453391c832"
+      "title": "Animated Portrait #5",
+      "description": ".mixed media on canvas .18x24 cm .15 MB .2711x3640 pixels",
+      "asset": "/artwork/paintings/2020/20205.webp"
     },
     {
-      "title": "20206",
-      "description": "Animated Portrait #6 .mixed media on canvas .18x24 cm .2 MB .1172x1557 pixels",
-      "asset": "/artwork/paintings/2020/20206.webp",
-      "asset_hash": "bbdea0a68d8dcfc84b188cf2fa9561e114f728f6b0de7ffa4b27c69d2d14f1e1"
+      "title": "Animated Portrait #6",
+      "description": ".mixed media on canvas .18x24 cm .2 MB .1172x1557 pixels",
+      "asset": "/artwork/paintings/2020/20206.webp"
     },
     {
-      "title": "20207",
-      "description": "Animated Portrait #7 .mixed media on canvas .18x24 cm .13 MB .3049x4026 pixels",
-      "asset": "/artwork/paintings/2020/20207.webp",
-      "asset_hash": "4b85cc6498895662d68f007c6dca51e3ec45fc383f8e5942552ad08adb775e2c"
+      "title": "Animated Portrait #7",
+      "description": ".mixed media on canvas .18x24 cm .13 MB .3049x4026 pixels",
+      "asset": "/artwork/paintings/2020/20207.webp"
     },
     {
-      "title": "20208",
-      "description": "Animated Portrait #8 .mixed media on canvas .18x24 cm .15 MB .3155x4071 pixels",
-      "asset": "/artwork/paintings/2020/20208.webp",
-      "asset_hash": "8ba10ffffe67ac725668b9e828c3048daeea50629995cbc050ef04ede741d78f"
+      "title": "Animated Portrait #8",
+      "description": ".mixed media on canvas .18x24 cm .15 MB .3155x4071 pixels",
+      "asset": "/artwork/paintings/2020/20208.webp"
     },
     {
-      "title": "20209",
-      "description": "Animated Portrait #9 .mixed media on canvas .18x24 cm .16 MB .3093x4060 pixels",
-      "asset": "/artwork/paintings/2020/20209.webp",
-      "asset_hash": "3974bcf92202d619889eab8efb970d3e211a2c4b0eab181800521f9aba5b1620"
+      "title": "Animated Portrait #9",
+      "description": ".mixed media on canvas .18x24 cm .16 MB .3093x4060 pixels",
+      "asset": "/artwork/paintings/2020/20209.webp"
     },
     {
-      "title": "202010",
-      "description": "City of the White Snake .mixed media on canvas .30x50 cm .15 MB .1322x2000 pixels",
-      "asset": "/artwork/paintings/2020/202010.webp",
-      "asset_hash": "69b5eab91f0cd287e97ad20dedf460dde1f7e2b076d89524b9b475ce55ee0850"
+      "title": "City of the White Snake",
+      "description": ".mixed media on canvas .30x50 cm .15 MB .1322x2000 pixels",
+      "asset": "/artwork/paintings/2020/202010.webp"
     },
     {
-      "title": "202011",
-      "description": "Divine Aspiration .mixed media on canvas .50x70 cm .19 MB .2717x3824 pixels",
-      "asset": "/artwork/paintings/2020/202011.webp",
-      "asset_hash": "754620505f96dbde2170a1a06f20572730b77eb87604260f3e96d4b1cf68a4fc"
+      "title": "Divine Aspiration",
+      "description": ".mixed media on canvas .50x70 cm .19 MB .2717x3824 pixels",
+      "asset": "/artwork/paintings/2020/202011.webp"
     },
     {
-      "title": "202012",
-      "description": "Epignos .mixed media on canvas .30x50 cm .17 MB .2666x3883 pixels",
-      "asset": "/artwork/paintings/2020/202012.webp",
-      "asset_hash": "c22d9ce4c42482d92885512d146d1a4977d341928dced735e7f1db4d462ab7be"
+      "title": "Epignos",
+      "description": ".mixed media on canvas .30x50 cm .17 MB .2666x3883 pixels",
+      "asset": "/artwork/paintings/2020/202012.webp"
     },
     {
-      "title": "202013",
-      "description": "Grey War .mixed media on canvas .60x80 cm .12 MB .3799x2533 pixels",
-      "asset": "/artwork/paintings/2020/202013.webp",
-      "asset_hash": "50f183b9f89382d8e53acdf0d67c7d3f02e99983ffc8bfbff0bf64e225320b89"
+      "title": "Grey War",
+      "description": ".mixed media on canvas .60x80 cm .12 MB .3799x2533 pixels",
+      "asset": "/artwork/paintings/2020/202013.webp"
     },
     {
-      "title": "202014",
-      "description": "Impesigra .mixed media on canvas .35x40 cm .15 MB .3527x3110 pixels",
-      "asset": "/artwork/paintings/2020/202014.webp",
-      "asset_hash": "575ea17598459f50ff09a4f0869c1bc6ddd3c019f1cfcb430d6e6c703107b84d"
+      "title": "Impesigra",
+      "description": ".mixed media on canvas .35x40 cm .15 MB .3527x3110 pixels",
+      "asset": "/artwork/paintings/2020/202014.webp"
     },
     {
-      "title": "202015",
-      "description": "Mad God Story .mixed media on canvas .35x50 cm .21 MB .2619x3729 pixels",
-      "asset": "/artwork/paintings/2020/202015.webp",
-      "asset_hash": "9ef5a74b67ea1f60fb49cffbfe89804c325d45a34116fc8b6adb85b2699e7d5b"
+      "title": "Mad God Story",
+      "description": ".mixed media on canvas .35x50 cm .21 MB .2619x3729 pixels",
+      "asset": "/artwork/paintings/2020/202015.webp"
     },
     {
-      "title": "202016",
-      "description": "Maternity .mixed media on canvas .24x30 cm .24 MB .4040x5017 pixels",
-      "asset": "/artwork/paintings/2020/202016.webp",
-      "asset_hash": "11d75d244559394db749a8bb6c19761ea61262d33e25e2203007b46638e3f8b5"
+      "title": "Maternity",
+      "description": ".mixed media on canvas .24x30 cm .24 MB .4040x5017 pixels",
+      "asset": "/artwork/paintings/2020/202016.webp"
     },
     {
-      "title": "202017",
-      "description": "Paradox .mixed media on canvas .35x50 cm .16 MB .1447x2000 pixels",
-      "asset": "/artwork/paintings/2020/202017.webp",
-      "asset_hash": "126ec75d6961825ec48f38ef7c02ec08c03beb8cf0dd8fa9c5637e25b3ef605e"
+      "title": "Paradox",
+      "description": ".mixed media on canvas .35x50 cm .16 MB .1447x2000 pixels",
+      "asset": "/artwork/paintings/2020/202017.webp"
     },
     {
-      "title": "202018",
-      "description": "Realm of the Three Dementias .mixed media on canvas .20x30 cm .11 MB .1544x1947 pixels",
-      "asset": "/artwork/paintings/2020/202018.webp",
-      "asset_hash": "3096c4e4ef19317ee07745f083e7804dc61540461cc3d54ccbc315f93d898e6e"
+      "title": "Realm of the Three Dementias",
+      "description": ".mixed media on canvas .20x30 cm .11 MB .1544x1947 pixels",
+      "asset": "/artwork/paintings/2020/202018.webp"
     },
     {
-      "title": "202019",
-      "description": "Tutankhamun & Nefertiti .mixed media on canvas .35x50 cm .17 MB .1586x200 pixels",
-      "asset": "/artwork/paintings/2020/202019.webp",
-      "asset_hash": "5481e48dd130d83e186363778a94014ef5a2d3038b7f8fff36aab5cf302536d7"
+      "title": "Tutankhamun & Nefertiti",
+      "description": ".mixed media on canvas .35x50 cm .17 MB .1586x200 pixels",
+      "asset": "/artwork/paintings/2020/202019.webp"
     },
     {
-      "title": "20221",
-      "description": "Alopia .mixed media on canvas .20cm .141 MB .9883x9878 pixels",
-      "asset": "/artwork/paintings/2022/20221.webp",
-      "asset_hash": "bebee3cd58eb6a1d64f397e4aba0612e6ea2a86eb08c43bb62eca291d840f2b8"
+      "title": "Alopia",
+      "description": ".mixed media on canvas .20cm .141 MB .9883x9878 pixels",
+      "asset": "/artwork/paintings/2022/20221.webp"
     },
     {
-      "title": "20222",
-      "description": "Festivity .mixed media on canvas .70x90 cm .133 MB .7981x10201 pixels",
-      "asset": "/artwork/paintings/2022/20222.webp",
-      "asset_hash": "1567e09a1590bc8c2d340594780b20be41d753a682e40e1f72783d1177bcb40b"
+      "title": "Festivity",
+      "description": ".mixed media on canvas .70x90 cm .133 MB .7981x10201 pixels",
+      "asset": "/artwork/paintings/2022/20222.webp"
     },
     {
-      "title": "20223",
-      "description": "Hard Choice .mixed media on canvas .18x24 cm .83 MB .6203x7451 pixels",
-      "asset": "/artwork/paintings/2022/20223.webp",
-      "asset_hash": "f67a772b4209341b54f0e32f1cf0e33b3da717c7d19ac2b76849ca6bf05acec9"
+      "title": "Hard Choice",
+      "description": ".mixed media on canvas .18x24 cm .83 MB .6203x7451 pixels",
+      "asset": "/artwork/paintings/2022/20223.webp"
     },
     {
-      "title": "20224",
-      "description": "Metaphysics of Indecision .mixed media on canvas .50x70 cm .212 MB .8437x11253 pixels",
-      "asset": "/artwork/paintings/2022/20224.webp",
-      "asset_hash": "82768a5d5eedecb6070eb17a5b77dcbfdb7a9f084ffa0d50b90b835c6cc7241b"
+      "title": "Metaphysics of Indecision",
+      "description": ".mixed media on canvas .50x70 cm .212 MB .8437x11253 pixels",
+      "asset": "/artwork/paintings/2022/20224.webp"
     },
     {
-      "title": "20225",
-      "description": "Metaphysics of Love .mixed media on canvas .25x50 cm .158 MB .7142x13216 pixels",
-      "asset": "/artwork/paintings/2022/20225.webp",
-      "asset_hash": "f53a5c2961efd868cb7690f6370ab1cf783ae727b03e74e6083123da83425d5e"
+      "title": "Metaphysics of Love",
+      "description": ".mixed media on canvas .25x50 cm .158 MB .7142x13216 pixels",
+      "asset": "/artwork/paintings/2022/20225.webp"
     },
     {
-      "title": "20226",
-      "description": "Metaphysics of Suffering .mixed media on canvas .40cm .152 MB .10003x9773 pixels",
-      "asset": "/artwork/paintings/2022/20226.webp",
-      "asset_hash": "5d0ba3452d913f7aa2fa1ab6d81f66cb93dc6a84e4316f9f78861b9ba85bae4b"
+      "title": "Metaphysics of Suffering",
+      "description": ".mixed media on canvas .40cm .152 MB .10003x9773 pixels",
+      "asset": "/artwork/paintings/2022/20226.webp"
     },
     {
-      "title": "20227",
-      "description": "Of Toybox .mixed media on canvas .30x50 cm .7 MB .2318x1735 pixels",
-      "asset": "/artwork/paintings/2022/20227.webp",
-      "asset_hash": "0221fda3570423ef5d9bdcf31175eca844b8c19d53ac72bea5a2c8325345e966"
+      "title": "Of Toybox",
+      "description": ".mixed media on canvas .30x50 cm .7 MB .2318x1735 pixels",
+      "asset": "/artwork/paintings/2022/20227.webp"
     },
     {
-      "title": "20228",
-      "description": "Prince\u2019s Joy .mixed media on canvas .40cm .116 MB .9532x9532 pixels",
-      "asset": "/artwork/paintings/2022/20228.webp",
-      "asset_hash": "59aebfcf9ed8f706d701334d8edcc5f920f228b6854e0d154fe164c66e508f6b"
+      "title": "Prince’s Joy",
+      "description": ".mixed media on canvas .40cm .116 MB .9532x9532 pixels",
+      "asset": "/artwork/paintings/2022/20228.webp"
     },
     {
-      "title": "20229",
-      "description": "Rebound .mixed media on canvas .40cm .127 MB .9906x9906 pixels",
-      "asset": "/artwork/paintings/2022/20229.webp",
-      "asset_hash": "effd77da2f0ecf47355c642f6fd084d74b6f31dc9bffff816b94432598b8daca"
+      "title": "Rebound",
+      "description": ".mixed media on canvas .40cm .127 MB .9906x9906 pixels",
+      "asset": "/artwork/paintings/2022/20229.webp"
     },
     {
-      "title": "202210",
-      "description": "Sacred Soil .mixed media on canvas .40cm .125 MB .9166x9166 pixels",
-      "asset": "/artwork/paintings/2022/202210.webp",
-      "asset_hash": "ffa194845c0e58f304103ceadb95441851aa291c403144d03a272a3e218e9198"
+      "title": "Sacred Soil",
+      "description": ".mixed media on canvas .40cm .125 MB .9166x9166 pixels",
+      "asset": "/artwork/paintings/2022/202210.webp"
     },
     {
-      "title": "202211",
-      "description": "Safety Bubble .mixed media on canvas .40cm .58 MB .6805x6805 pixels",
-      "asset": "/artwork/paintings/2022/202211.webp",
-      "asset_hash": "a430caa0ca48e2a4301a3a9f031014ae933e6537870e471adc39a3b3c7013dc1"
+      "title": "Safety Bubble",
+      "description": ".mixed media on canvas .40cm .58 MB .6805x6805 pixels",
+      "asset": "/artwork/paintings/2022/202211.webp"
     },
     {
-      "title": "202212",
-      "description": "Start Anew .mixed media on canvas .18x24 cm .95 MB .7645x9672 pixels",
-      "asset": "/artwork/paintings/2022/202212.webp",
-      "asset_hash": "497f22de444eafca960f8cb174fb7b6c2a95fd93cb3176ce9a0ef004712f5014"
+      "title": "Start Anew",
+      "description": ".mixed media on canvas .18x24 cm .95 MB .7645x9672 pixels",
+      "asset": "/artwork/paintings/2022/202212.webp"
     },
     {
-      "title": "20231",
-      "description": "A Highpriest .mixed media on canvas .18x24 cm .60 MB .5916x7895 pixels",
-      "asset": "/artwork/paintings/2023/20231.webp",
-      "asset_hash": "ef5b15d152ec7b3fbc35bb1d1b278ff69f34e0d5eb8f62d3398ed4f424b81ccf"
+      "title": "A Highpriest",
+      "description": ".mixed media on canvas .18x24 cm .60 MB .5916x7895 pixels",
+      "asset": "/artwork/paintings/2023/20231.webp"
     },
     {
-      "title": "20232",
-      "description": "Blameleon .mixed media on canvas .18x24 cm .34 MB .4329x5845 pixels",
-      "asset": "/artwork/paintings/2023/20232.webp",
-      "asset_hash": "1fbdefdd7ca1fdafef677bacdbd3c32a0f8e0ea8e16faac534c0e6911498957d"
+      "title": "Blameleon",
+      "description": ".mixed media on canvas .18x24 cm .34 MB .4329x5845 pixels",
+      "asset": "/artwork/paintings/2023/20232.webp"
     },
     {
-      "title": "20233",
-      "description": "Born Anew .mixed media on canvas .90x120 cm .76 MB .7953x5927 pixels",
-      "asset": "/artwork/paintings/2023/20233.webp",
-      "asset_hash": "efffd509db607df808531d3b0258ff1ba8c46c8b6597ab261ad393fe94b5100f"
+      "title": "Born Anew",
+      "description": ".mixed media on canvas .90x120 cm .76 MB .7953x5927 pixels",
+      "asset": "/artwork/paintings/2023/20233.webp"
     },
     {
-      "title": "20234",
-      "description": "Collision .mixed media on canvas .18x24 cm .50 MB .4680x6077 pixels",
-      "asset": "/artwork/paintings/2023/20234.webp",
-      "asset_hash": "0f5c324014f072ba1c37d621e5d61662ee5f5350a03e38da0d13adc260cc5ad5"
+      "title": "Collision",
+      "description": ".mixed media on canvas .18x24 cm .50 MB .4680x6077 pixels",
+      "asset": "/artwork/paintings/2023/20234.webp"
     },
     {
-      "title": "20235",
-      "description": "Epiphany .mixed media on canvas .40cm .69 MB .6940x6940 pixels",
-      "asset": "/artwork/paintings/2023/20235.webp",
-      "asset_hash": "4e630df3d4d63ba8d40de58fe3f0069c63694deaa0f36f45e2afddba4499f84f"
+      "title": "Epiphany",
+      "description": ".mixed media on canvas .40cm .69 MB .6940x6940 pixels",
+      "asset": "/artwork/paintings/2023/20235.webp"
     },
     {
-      "title": "20236",
-      "description": "Harlequin .mixed media on canvas .40cm .5 MB .2022x1995 pixels",
-      "asset": "/artwork/paintings/2023/20236.webp",
-      "asset_hash": "50e751b27f4aef4d4befefd0032e140008a1ee36cc6fbf566f43871a18970277"
+      "title": "Harlequin",
+      "description": ".mixed media on canvas .40cm .5 MB .2022x1995 pixels",
+      "asset": "/artwork/paintings/2023/20236.webp"
     },
     {
-      "title": "20237",
-      "description": "Healing Earring .mixed media on canvas .20x30 cm .8 MB .1774x2619 pixels",
-      "asset": "/artwork/paintings/2023/20237.webp",
-      "asset_hash": "537028dd41bfa359ed1dbe03e8f8fb461b4af39b475d81509f4fd774ae8478a3"
+      "title": "Healing Earring",
+      "description": ".mixed media on canvas .20x30 cm .8 MB .1774x2619 pixels",
+      "asset": "/artwork/paintings/2023/20237.webp"
     },
     {
-      "title": "20238",
-      "description": "Healing Suffering .mixed media on canvas .40cm .60 MB .7108x7108 pixels",
-      "asset": "/artwork/paintings/2023/20238.webp",
-      "asset_hash": "36f847c41832d5147de9f266cd307eade695e78c1fa79d22f16aeb67ae54fe60"
+      "title": "Healing Suffering",
+      "description": ".mixed media on canvas .40cm .60 MB .7108x7108 pixels",
+      "asset": "/artwork/paintings/2023/20238.webp"
     },
     {
-      "title": "20239",
-      "description": "Iatam .mixed media on canvas .20x20 cm .41 MB .4911x5164 pixels",
-      "asset": "/artwork/paintings/2023/20239.webp",
-      "asset_hash": "ca27bce8ec8c37eaf9acd91bdebc76ee64a9b7864e11c2866bcf6072c52c7ff4"
+      "title": "Iatam",
+      "description": ".mixed media on canvas .20x20 cm .41 MB .4911x5164 pixels",
+      "asset": "/artwork/paintings/2023/20239.webp"
     },
     {
-      "title": "202310",
-      "description": "Lone Tree .mixed media on canvas .20x20 cm .52 MB .4969x4915 pixels",
-      "asset": "/artwork/paintings/2023/202310.webp",
-      "asset_hash": "d5744b6d6b2c470775b1c8768bbe34aa73efdb7471f3071223c007d3527e07ce"
+      "title": "Lone Tree",
+      "description": ".mixed media on canvas .20x20 cm .52 MB .4969x4915 pixels",
+      "asset": "/artwork/paintings/2023/202310.webp"
     },
     {
-      "title": "202311",
-      "description": "Playful Tragedy .mixed media on canvas .60cm .104 MB .9960x9960 pixels",
-      "asset": "/artwork/paintings/2023/202311.webp",
-      "asset_hash": "0e24bf8128f47f1954638ac4d1956b49e44d1bfe5a75db8c47d32cb5221b968a"
+      "title": "Playful Tragedy",
+      "description": ".mixed media on canvas .60cm .104 MB .9960x9960 pixels",
+      "asset": "/artwork/paintings/2023/202311.webp"
     },
     {
-      "title": "202312",
-      "description": "Red Flight .mixed media on canvas .18x24 cm .69 MB .7442x5459 pixels",
-      "asset": "/artwork/paintings/2023/202312.webp",
-      "asset_hash": "b6bf464cd7535f23a1b9dee3d717da01cfab2960b01b356f873debd021c62508"
+      "title": "Red Flight",
+      "description": ".mixed media on canvas .18x24 cm .69 MB .7442x5459 pixels",
+      "asset": "/artwork/paintings/2023/202312.webp"
     },
     {
-      "title": "202313",
-      "description": "Reversal .mixed media on canvas .20x20 cm .64 MB .5891x6063 pixels",
-      "asset": "/artwork/paintings/2023/202313.webp",
-      "asset_hash": "32a82641b604b1b6bf75e158bfb911e8241dd928a4f9aeffadcafdad2755c378"
+      "title": "Reversal",
+      "description": ".mixed media on canvas .20x20 cm .64 MB .5891x6063 pixels",
+      "asset": "/artwork/paintings/2023/202313.webp"
     },
     {
-      "title": "202314",
-      "description": "Safety Bubble .mixed media on canvas .40cm .58 MB .6805x6805 pixels",
-      "asset": "/artwork/paintings/2023/202314.webp",
-      "asset_hash": "9d9fdb3630ddf78946e2ad2ac5e767f729f9ef54248a97746179bfadb59e94b5"
+      "title": "Safety Bubble",
+      "description": ".mixed media on canvas .40cm .58 MB .6805x6805 pixels",
+      "asset": "/artwork/paintings/2023/202314.webp"
     },
     {
-      "title": "202315",
-      "description": "Shaman of the Seas .mixed media on canvas .50cm .113 MB .8541x8541 pixels",
-      "asset": "/artwork/paintings/2023/202315.webp",
-      "asset_hash": "1d0d8dcef6e5a1ea573ef23587b1211e14848899708672ebb3571ed881431817"
+      "title": "Shaman of the Seas",
+      "description": ".mixed media on canvas .50cm .113 MB .8541x8541 pixels",
+      "asset": "/artwork/paintings/2023/202315.webp"
     },
     {
-      "title": "202316",
-      "description": "Stalwart .mixed media on canvas .21x30 cm .137 MB .8060x11668 pixels",
-      "asset": "/artwork/paintings/2023/202316.webp",
-      "asset_hash": "267482908c89ce9f269d46aad1fb6a3dadf74e636741078afff5eeb27127c952"
+      "title": "Stalwart",
+      "description": ".mixed media on canvas .21x30 cm .137 MB .8060x11668 pixels",
+      "asset": "/artwork/paintings/2023/202316.webp"
     },
     {
-      "title": "202317",
-      "description": "Underwater Heat .mixed media on canvas .20x20 cm .42 MB .4967x4908 pixels",
-      "asset": "/artwork/paintings/2023/202317.webp",
-      "asset_hash": "4610868eaa2928a02b8b56ef217d8b2ae3e32e6d0241925fb6f6938bbd0b45da"
+      "title": "Underwater Heat",
+      "description": ".mixed media on canvas .20x20 cm .42 MB .4967x4908 pixels",
+      "asset": "/artwork/paintings/2023/202317.webp"
     },
     {
-      "title": "202318",
-      "description": "Uphill Mirror .mixed media on canvas .60cm .62 MB .7148x7148 pixels",
-      "asset": "/artwork/paintings/2023/202318.webp",
-      "asset_hash": "29a83c0b17ed57698684aa86131b66030bc3ecfccc19c15bb56cc69273f4dd02"
+      "title": "Uphill Mirror",
+      "description": ".mixed media on canvas .60cm .62 MB .7148x7148 pixels",
+      "asset": "/artwork/paintings/2023/202318.webp"
     },
     {
-      "title": "20241",
-      "description": "Orange Matter #1 .mixed media on canvas .60x60 cm .41 MB .5963x5945 pixels",
-      "asset": "/artwork/paintings/2024/20241.webp",
-      "asset_hash": "904586654760be019c811b95675511614cdec2b14c539f53310acfb7a64e9010"
+      "title": "Orange Matter #1",
+      "description": ".mixed media on canvas .60x60 cm .41 MB .5963x5945 pixels",
+      "asset": "/artwork/paintings/2024/20241.webp"
     },
     {
-      "title": "20242",
-      "description": "Orange Matter #2 .mixed media on canvas .60x60 cm .45 MB .6128x6163 pixels",
-      "asset": "/artwork/paintings/2024/20242.webp",
-      "asset_hash": "41198caac7530862a74f115ca8eda2a51acaacfd5f8c4f27b909ec4425cd15bb"
+      "title": "Orange Matter #2",
+      "description": ".mixed media on canvas .60x60 cm .45 MB .6128x6163 pixels",
+      "asset": "/artwork/paintings/2024/20242.webp"
     },
     {
-      "title": "20243",
-      "description": "Orange Matter #3 .mixed media on canvas .60x60 cm .34 MB .4699x4643 pixels",
-      "asset": "/artwork/paintings/2024/20243.webp",
-      "asset_hash": "4c0c329d055ddf91892ba2a5b22dfdf36b541c3e70743b8f9a3bb73e763e4f8c"
+      "title": "Orange Matter #3",
+      "description": ".mixed media on canvas .60x60 cm .34 MB .4699x4643 pixels",
+      "asset": "/artwork/paintings/2024/20243.webp"
     },
     {
-      "title": "20244",
-      "description": "Orange Matter #4 .mixed media on canvas .60x60 cm .34 MB .4791x4744 pixels",
-      "asset": "/artwork/paintings/2024/20244.webp",
-      "asset_hash": "c9b3e5922ee56719f8e83ca6cee1d5849d9df402254c58b4c673b04a5f4e02d5"
+      "title": "Orange Matter #4",
+      "description": ".mixed media on canvas .60x60 cm .34 MB .4791x4744 pixels",
+      "asset": "/artwork/paintings/2024/20244.webp"
     },
     {
-      "title": "20245",
-      "description": "Orange Matter #5 .mixed media on canvas .60x60 cm .22 MB .3794x3820 pixels",
-      "asset": "/artwork/paintings/2024/20245.webp",
-      "asset_hash": "3e94c5ca2ea29fbdaddd80b749a28860bf2ba87cf898093773a00c9dedc1445c"
+      "title": "Orange Matter #5",
+      "description": ".mixed media on canvas .60x60 cm .22 MB .3794x3820 pixels",
+      "asset": "/artwork/paintings/2024/20245.webp"
     },
     {
-      "title": "20246",
-      "description": "Orange Matter #6 .mixed media on canvas .60x60 cm .28 MB .4383x4442 pixels",
-      "asset": "/artwork/paintings/2024/20246.webp",
-      "asset_hash": "c6c84c178833642798bed6892e509348d422416fe60e296a1acef461a50588d7"
+      "title": "Orange Matter #6",
+      "description": ".mixed media on canvas .60x60 cm .28 MB .4383x4442 pixels",
+      "asset": "/artwork/paintings/2024/20246.webp"
     },
     {
-      "title": "20247",
-      "description": "Orange Matter #7 .mixed media on canvas .60x60 cm .201 MB .9871x10022 pixels",
-      "asset": "/artwork/paintings/2024/20247.webp",
-      "asset_hash": "843490d070cee4408e67eeea3cf2b226fa08eac69c77febdf99deb3a07227a6b"
+      "title": "Orange Matter #7",
+      "description": ".mixed media on canvas .60x60 cm .201 MB .9871x10022 pixels",
+      "asset": "/artwork/paintings/2024/20247.webp"
     },
     {
-      "title": "20248",
-      "description": "Orange Matter #8 .mixed media on canvas .60x60 cm .149 MB .9608x9521 pixels",
-      "asset": "/artwork/paintings/2024/20248.webp",
-      "asset_hash": "60d81ddf761db5f24249b8a0b0520bf21330bef34f482b57cdc1219806bf78e0"
+      "title": "Orange Matter #8",
+      "description": ".mixed media on canvas .60x60 cm .149 MB .9608x9521 pixels",
+      "asset": "/artwork/paintings/2024/20248.webp"
     },
     {
-      "title": "20249",
-      "description": "TAGGR #1 .mixed media on canvas .20x20 cm .26 MB .4484x4556 pixels",
-      "asset": "/artwork/paintings/2024/20249.webp",
-      "asset_hash": "2d3ac893c550cb0cf03015f45d50b60b8544bc17414ac88a7b93b496caeb9ce2"
+      "title": "TAGGR #1",
+      "description": ".mixed media on canvas .20x20 cm .26 MB .4484x4556 pixels",
+      "asset": "/artwork/paintings/2024/20249.webp"
     },
     {
-      "title": "202410",
-      "description": "Untitled #1 .mixed media on canvas .30x30 cm .43 MB .5324x5351 pixels",
-      "asset": "/artwork/paintings/2024/202410.webp",
-      "asset_hash": "f4fcac5ea1a9e4ca75631efb8c3bdd0852e247de6d6be33c05719b3139dcb4e7"
+      "title": "Untitled #1",
+      "description": ".mixed media on canvas .30x30 cm .43 MB .5324x5351 pixels",
+      "asset": "/artwork/paintings/2024/202410.webp"
     },
     {
-      "title": "202411",
-      "description": "Untitled #2 .mixed media on canvas .30x30 cm .49 MB .5414x5422 pixels",
-      "asset": "/artwork/paintings/2024/202411.webp",
-      "asset_hash": "3a93179f7508f85cada0a9d815eda0aa5b5f52049364be7469137b9d9f96468a"
+      "title": "Untitled #2",
+      "description": ".mixed media on canvas .30x30 cm .49 MB .5414x5422 pixels",
+      "asset": "/artwork/paintings/2024/202411.webp"
     },
     {
-      "title": "202412",
-      "description": "Untitled #3 .mixed media on canvas .30x30 cm .21 MB .3247x3332 pixels",
-      "asset": "/artwork/paintings/2024/202412.webp",
-      "asset_hash": "92170b3d2a33dbdcbdc1692976c9c55b2474812ca8be66506ecec72e26a1bcc9"
+      "title": "Untitled #3",
+      "description": ".mixed media on canvas .30x30 cm .21 MB .3247x3332 pixels",
+      "asset": "/artwork/paintings/2024/202412.webp"
     },
     {
-      "title": "202413",
-      "description": "Untitled #4 .mixed media on canvas .30x30 cm .49 MB .5319x5315 pixels",
-      "asset": "/artwork/paintings/2024/202413.webp",
-      "asset_hash": "abef5f64569b4a82cef266008ce858a7f8694d0cf84b081786c0ee4710d52c77"
+      "title": "Untitled #4",
+      "description": ".mixed media on canvas .30x30 cm .49 MB .5319x5315 pixels",
+      "asset": "/artwork/paintings/2024/202413.webp"
     },
     {
-      "title": "202414",
-      "description": "Untitled #6 .mixed media on canvas .40x40 cm .102 MB .9608x9521 pixels",
-      "asset": "/artwork/paintings/2024/202414.webp",
-      "asset_hash": "3ab0ab90418a06f60485fcfa172d9c8c69a2d1f93113545a035db92cc354de06"
+      "title": "Untitled #6",
+      "description": ".mixed media on canvas .40x40 cm .102 MB .9608x9521 pixels",
+      "asset": "/artwork/paintings/2024/202414.webp"
     },
     {
-      "title": "202415",
-      "description": "Untitled #7 .mixed media on canvas .30x30 cm .42 MB .5696x5599 pixels",
-      "asset": "/artwork/paintings/2024/202415.webp",
-      "asset_hash": "a0f35f86a83b2bd9b4fbc32c6e722e7439cbc1866f9565e6a3348ae22cc8a5ba"
+      "title": "Untitled #7",
+      "description": ".mixed media on canvas .30x30 cm .42 MB .5696x5599 pixels",
+      "asset": "/artwork/paintings/2024/202415.webp"
     },
     {
-      "title": "202416",
-      "description": "Untitled #8 .mixed media on canvas .20x20 cm .45 MB .4692x4764 pixels",
-      "asset": "/artwork/paintings/2024/202416.webp",
-      "asset_hash": "06c16c791cdaec0ce57e482ee9f37a59af341f6fd81c3145dae2828a176782fe"
+      "title": "Untitled #8",
+      "description": ".mixed media on canvas .20x20 cm .45 MB .4692x4764 pixels",
+      "asset": "/artwork/paintings/2024/202416.webp"
     },
     {
-      "title": "202417",
-      "description": "Untitled #9 .mixed media on canvas .20cm .34 MB .6011x6011 pixels",
-      "asset": "/artwork/paintings/2024/202417.webp",
-      "asset_hash": "4908b7b3669ce009a20cbd2dc621db95908d41efe79f10ed08aa0ddd164b944a"
+      "title": "Untitled #9",
+      "description": ".mixed media on canvas .20cm .34 MB .6011x6011 pixels",
+      "asset": "/artwork/paintings/2024/202417.webp"
     },
     {
-      "title": "202418",
-      "description": "Untitled #10 .mixed media on canvas .60x60 cm .68 MB .7004x6973 pixels",
-      "asset": "/artwork/paintings/2024/202418.webp",
-      "asset_hash": "801f860f610fa92aab428164596101f0e2db6e2588140b52896434d3e22e254f"
+      "title": "Untitled #10",
+      "description": ".mixed media on canvas .60x60 cm .68 MB .7004x6973 pixels",
+      "asset": "/artwork/paintings/2024/202418.webp"
     },
     {
-      "title": "202419",
-      "description": "Untitled #11 .mixed media on canvas .60cm .90 MB .8936x8936 pixels",
-      "asset": "/artwork/paintings/2024/202419.webp",
-      "asset_hash": "b322699c36683fc0bcfa8a5bb5a28b88890734dd9ab27e42e2e47f4b888e44f0"
+      "title": "Untitled #11",
+      "description": ".mixed media on canvas .60cm .90 MB .8936x8936 pixels",
+      "asset": "/artwork/paintings/2024/202419.webp"
     },
     {
-      "title": "202420",
-      "description": "Untitled #12 .mixed media on canvas .40x40 cm .50 MB .5130x4984 pixels",
-      "asset": "/artwork/paintings/2024/202420.webp",
-      "asset_hash": "3d63aa667aee97af2814b91b5c94e8ac03408b77ddfeaeadd5adcfd40b0d2106"
+      "title": "Untitled #12",
+      "description": ".mixed media on canvas .40x40 cm .50 MB .5130x4984 pixels",
+      "asset": "/artwork/paintings/2024/202420.webp"
     },
     {
-      "title": "202421",
-      "description": "Untitled #13 .mixed media on canvas .24x30 cm .85 MB .5760x7328 pixels",
-      "asset": "/artwork/paintings/2024/202421.webp",
-      "asset_hash": "588b6b775b9270c1f9381477da138cf41930a97e704d81f35890926b232766de"
+      "title": "Untitled #13",
+      "description": ".mixed media on canvas .24x30 cm .85 MB .5760x7328 pixels",
+      "asset": "/artwork/paintings/2024/202421.webp"
     },
     {
-      "title": "202422",
-      "description": "Untitled #14 .mixed media on canvas .30x100 cm .112 MB .4701x15761 pixels",
-      "asset": "/artwork/paintings/2024/202422.webp",
-      "asset_hash": "c4c1dd3b5695b9e13696dfdde717c6720aad094266d8afe51cea5c7e1b6584d8"
+      "title": "Untitled #14",
+      "description": ".mixed media on canvas .30x100 cm .112 MB .4701x15761 pixels",
+      "asset": "/artwork/paintings/2024/202422.webp"
     },
     {
-      "title": "202423",
-      "description": "Untitled #15 .mixed media on canvas .30cm .39 MB .5737x5663 pixels",
-      "asset": "/artwork/paintings/2024/202423.webp",
-      "asset_hash": "a13a8dc170bc4919f9d2e8cd4568ecee882364998b1eb4e6a7259b1c321c5b51"
+      "title": "Untitled #15",
+      "description": ".mixed media on canvas .30cm .39 MB .5737x5663 pixels",
+      "asset": "/artwork/paintings/2024/202423.webp"
     },
     {
-      "title": "202424",
-      "description": "Untitled #16 .mixed media on canvas .40cm .66 MB .7342x7342 pixels",
-      "asset": "/artwork/paintings/2024/202424.webp",
-      "asset_hash": "838e7dd3bef7722d8a724d29229b8d2d50d6e755e98e1ff6cc768f13b58ef001"
+      "title": "Untitled #16",
+      "description": ".mixed media on canvas .40cm .66 MB .7342x7342 pixels",
+      "asset": "/artwork/paintings/2024/202424.webp"
     },
     {
-      "title": "202425",
-      "description": "Untitled #17 .mixed media on canvas .20x20 cm .82 MB .7060x7162 pixels",
-      "asset": "/artwork/paintings/2024/202425.webp",
-      "asset_hash": "3798f3ff922c5ce0cf70621820b8b4894d27f33dc038b7a41f32b6d713f256bd"
+      "title": "Untitled #17",
+      "description": ".mixed media on canvas .20x20 cm .82 MB .7060x7162 pixels",
+      "asset": "/artwork/paintings/2024/202425.webp"
     },
     {
-      "title": "202426",
-      "description": "Untitled #18 .mixed media on canvas .60x90 cm .142MB .7959x10230 pixels",
-      "asset": "/artwork/paintings/2024/202426.webp",
-      "asset_hash": "6dd3c6392b2051e6734bc645da474ee06012fc2ddcba0c050bb8e6312371db1e"
+      "title": "Untitled #18",
+      "description": ".mixed media on canvas .60x90 cm .142MB .7959x10230 pixels",
+      "asset": "/artwork/paintings/2024/202426.webp"
     },
     {
-      "title": "202427",
-      "description": "Untitled #19 .mixed media on canvas .50x70 cm .180 MB .8009x11213 pixels",
-      "asset": "/artwork/paintings/2024/202427.webp",
-      "asset_hash": "fd63aa5af351c9e084dee1ff3a71a08d56b32c408fdaea90fb20cf5fd096bb30"
+      "title": "Untitled #19",
+      "description": ".mixed media on canvas .50x70 cm .180 MB .8009x11213 pixels",
+      "asset": "/artwork/paintings/2024/202427.webp"
     },
     {
-      "title": "202428",
-      "description": "Untitled #20 .mixed media on canvas .25x60 cm .84 MB .5835x13094 pixels",
-      "asset": "/artwork/paintings/2024/202428.webp",
-      "asset_hash": "1ece62eb3fc9dcf5df232e042301c1dd842b409ee3efc810cd6b771c333424ad"
+      "title": "Untitled #20",
+      "description": ".mixed media on canvas .25x60 cm .84 MB .5835x13094 pixels",
+      "asset": "/artwork/paintings/2024/202428.webp"
     }
   ]
 }
+
