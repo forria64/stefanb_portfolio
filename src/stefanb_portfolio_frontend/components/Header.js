@@ -49,14 +49,20 @@ export default function Header({ paintingYears, collaborationYears }) {
     <>
       <nav className="fixed top-0 left-0 right-0 z-50 bg-white font-light border-gray-200 dark:bg-dark-primary">
         <div className="flex flex-wrap justify-between items-center mx-auto w-full p-4 pt-3">
-          <Link href="/" onClick={handleNavClick} className="flex text-md items-center rtl:space-x-reverse dark:text-white">
-            <Image
-              className="rounded-full mr-2"
-              src="/logo.png"
-              alt="Stefan B"
-              width={42}
-              height={42}
-            />
+          <Link
+            href="/"
+            onClick={handleNavClick}
+            className="flex text-md items-center rtl:space-x-reverse dark:text-white"
+          >
+            {!pathname.startsWith('/about') && (
+              <Image
+                className="rounded-full mr-2"
+                src="/logo.png"
+                alt="Stefan B"
+                width={42}
+                height={42}
+              />
+            )}
             stefanb<span className="text-lg text-accent">.</span>art
           </Link>
           <div className="flex items-center space-x-6 rtl:space-x-reverse">

@@ -173,7 +173,11 @@ export default function ArtworkCarousel({ artwork, showArrows = true }) {
               .{item.year}
             </Link>
             {item.category === 'paintings' && item.available && (
-              <span className="inline-block text-base ml-1 text-green-500">
+              <span
+                className={`inline-block text-base ml-1 ${
+                  item.available === 'collected' ? 'text-red-500' : 'text-green-500'
+                }`}
+              >
                 ({item.available})
               </span>
             )}

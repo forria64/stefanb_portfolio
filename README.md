@@ -12,7 +12,7 @@
  ██▄▄▄▀   ▀█▄▄█▀ ▄██▄     ▀█▄▀  ▄██▄    ▀█▄▄█▀ ▄██▄ ▄██▄  ▀█▄▄█▀ 
  ██                                                                     
 ▀▀▀▀                                                                                     
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v1.0.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v1.1.0
 ```
 This repository hosts the source code for **StefanB's Art Portfolio** – a Next.js-based art portfolio deployed as an Internet Computer Protocol (ICP) canister.
 
